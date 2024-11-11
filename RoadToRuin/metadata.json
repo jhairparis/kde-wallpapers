@@ -1,0 +1,17 @@
+{
+    "KPlugin": {
+        "Authors": [
+            {
+                "Email": "70655025+jhairparis@users.noreply.github.com",
+                "Name": "Jhair Paris",
+                "Name[es]": "Jhair Paris"
+            }
+        ],
+        "Id": "com.jhairparis.road_to_ruin",
+        "License": "GPL-3.0",
+        "Name": "Road to Ruin",
+        "Name[es]": "Camino a la ruina",
+        "Description": "A surreal and eerie landscape, where A road stretches into the distance, flanked by dead trees.",
+        "Description[es]": "Un paisaje surrealista y espeluznante, donde Una carretera se extiende en la distancia, flanqueada por \u00e1rboles muertos."
+    }
+}

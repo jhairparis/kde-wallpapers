@@ -1,0 +1,17 @@
+{
+    "KPlugin": {
+        "Authors": [
+            {
+                "Email": "70655025+jhairparis@users.noreply.github.com",
+                "Name": "Jhair Paris",
+                "Name[es]": "Jhair Paris"
+            }
+        ],
+        "Id": "com.jhairparis.digital_wave",
+        "License": "GPL-3.0",
+        "Name": "Digital Wave",
+        "Name[es]": "Ondas digitales",
+        "Description": "An abstract digital art piece featuring a dynamic, wave-like composition with a dark to light gradient, predominantly in shades of blue and white, against a stark black background.",
+        "Description[es]": " Obra de arte digital abstracto que presenta una composici\u00f3n din\u00e1mica en forma de ola con un degradado de oscuro a claro, predominantemente en tonos azules y blancos, sobre un fondo negro crudo."
+    }
+}

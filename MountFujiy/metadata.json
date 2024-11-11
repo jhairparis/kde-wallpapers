@@ -1,0 +1,17 @@
+{
+    "KPlugin": {
+        "Authors": [
+            {
+                "Email": "70655025+jhairparis@users.noreply.github.com",
+                "Name": "Jhair Paris",
+                "Name[es]": "Jhair Paris"
+            }
+        ],
+        "Id": "com.jhairparis.mount_fujiy",
+        "License": "GPL-3.0",
+        "Name": "Mount Fujiy",
+        "Name[es]": "Monte Fujiy",
+        "Description": "Majestic Mount Fujiy.",
+        "Description[es]": "Majestuosa monta\u00f1a, Monte Fujiy."
+    }
+}

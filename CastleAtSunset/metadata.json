@@ -1,0 +1,17 @@
+{
+    "KPlugin": {
+        "Authors": [
+            {
+                "Email": "70655025+jhairparis@users.noreply.github.com",
+                "Name": "Jhair Paris",
+                "Name[es]": "Jhair Paris"
+            }
+        ],
+        "Id": "com.jhairparis.castle_at_sunset",
+        "License": "GPL-3.0",
+        "Name": "Castle at sunset",
+        "Name[es]": "Castillo en atardecer",
+        "Description": "Castle at sunset",
+        "Description[es]": "Palacio por el atardecer."
+    }
+}

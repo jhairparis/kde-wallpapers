@@ -1,0 +1,17 @@
+{
+    "KPlugin": {
+        "Authors": [
+            {
+                "Email": "70655025+jhairparis@users.noreply.github.com",
+                "Name": "Jhair Paris",
+                "Name[es]": "Jhair Paris"
+            }
+        ],
+        "Id": "com.jhairparis.rural_dusk",
+        "License": "GPL-3.0",
+        "Name": "Rural Dusk",
+        "Name[es]": "Noche rural",
+        "Description": "A quiet landscape on the ridge on the outskirts of a mountain",
+        "Description[es]": "Un paisaje tranquilo en el r\u00edo por las afueras de una monta\u00f1a."
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "KPlugin": {
+        "Authors": [
+            {
+                "Email": "70655025+jhairparis@users.noreply.github.com",
+                "Name": "Jhair Paris",
+                "Name[es]": "Jhair Paris"
+            }
+        ],
+        "Id": "com.jhairparis.beach_hammock",
+        "License": "GPL-3.0",
+        "Name": "Beach Hammock",
+        "Name[es]": "Una hamaca en la playa",
+        "Description": "A serene beach setting with a large thatched hammock prominently placed in the center.",
+        "Description[es]": "Una playa con una gran hamaca de paja en el centro."
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "KPlugin": {
+        "Authors": [
+            {
+                "Email": "70655025+jhairparis@users.noreply.github.com",
+                "Name": "Jhair Paris",
+                "Name[es]": "Jhair Paris"
+            }
+        ],
+        "Id": "com.jhairparis.vinyl_record_playing",
+        "License": "GPL-3.0",
+        "Name": "Vinyl record playing",
+        "Name[es]": "Tocar discos de vinilo",
+        "Description": "Playing vinyl records",
+        "Description[es]": "Tocar discos de vinilo"
+    }
+}

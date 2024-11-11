@@ -1,0 +1,17 @@
+{
+    "KPlugin": {
+        "Authors": [
+            {
+                "Email": "70655025+jhairparis@users.noreply.github.com",
+                "Name": "Jhair Paris",
+                "Name[es]": "Jhair Paris"
+            }
+        ],
+        "Id": "com.jhairparis.sunset_adventurer",
+        "License": "GPL-3.0",
+        "Name": "Sunset Adventurer",
+        "Name[es]": "Aventurero del atardecer",
+        "Description": "A character in the landscape watching the beautiful sunset.",
+        "Description[es]": "Un personaje en el paisaje viendo el hermoso atardecer."
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "KPlugin": {
+        "Authors": [
+            {
+                "Email": "70655025+jhairparis@users.noreply.github.com",
+                "Name": "Jhair Paris",
+                "Name[es]": "Jhair Paris"
+            }
+        ],
+        "Id": "com.jhairparis.forest_sunlight",
+        "License": "GPL-3.0",
+        "Name": "Forest sunlight",
+        "Name[es]": "La luz del bosque",
+        "Description": "A quiet forest.",
+        "Description[es]": "Un bosque tranquilo."
+    }
+}

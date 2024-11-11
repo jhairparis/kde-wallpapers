@@ -1,0 +1,17 @@
+{
+    "KPlugin": {
+        "Authors": [
+            {
+                "Email": "70655025+jhairparis@users.noreply.github.com",
+                "Name": "Jhair Paris",
+                "Name[es]": "Jhair Paris"
+            }
+        ],
+        "Id": "com.jhairparis.wait_for_me",
+        "License": "GPL-3.0",
+        "Name": "Wait for me",
+        "Name[es]": "Esperame",
+        "Description": "Captures an airport scene at sunset, with a central commercial aircraft in the background with a girl trying to jump a fence.",
+        "Description[es]": "Captura una escena de aeropuerto al atardecer, con un avi\u00f3n comercial central de fondo con una chica tratando de saltar una valla."
+    }
+}

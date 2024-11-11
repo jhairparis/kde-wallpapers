@@ -1,0 +1,17 @@
+{
+    "KPlugin": {
+        "Authors": [
+            {
+                "Email": "70655025+jhairparis@users.noreply.github.com",
+                "Name": "Jhair Paris",
+                "Name[es]": "Jhair Paris"
+            }
+        ],
+        "Id": "com.jhairparis.whale_leap",
+        "License": "GPL-3.0",
+        "Name": "Whale Leap",
+        "Name[es]": "Salto de ballena",
+        "Description": "A surreal scene of a whale in mid-jump",
+        "Description[es]": "Una escena surrealista de una ballena en pleno salto."
+    }
+}

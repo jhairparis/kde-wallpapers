@@ -1,0 +1,17 @@
+{
+    "KPlugin": {
+        "Authors": [
+            {
+                "Email": "70655025+jhairparis@users.noreply.github.com",
+                "Name": "Jhair Paris",
+                "Name[es]": "Jhair Paris"
+            }
+        ],
+        "Id": "com.jhairparis.deer_in_the_fog",
+        "License": "GPL-3.0",
+        "Name": "Deer in the fog",
+        "Name[es]": "Cirevo entre la niebla",
+        "Description": "Night scene in a forest is shrouded in dense fog.",
+        "Description[es]": "Escena nocturna en un bosque cubierto por una densa bruma."
+    }
+}

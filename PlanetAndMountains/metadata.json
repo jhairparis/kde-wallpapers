@@ -1,0 +1,17 @@
+{
+    "KPlugin": {
+        "Authors": [
+            {
+                "Email": "70655025+jhairparis@users.noreply.github.com",
+                "Name": "Jhair Paris",
+                "Name[es]": "Jhair Paris"
+            }
+        ],
+        "Id": "com.jhairparis.planet_and_mountains",
+        "License": "GPL-3.0",
+        "Name": "Planet and Mountains",
+        "Name[es]": "Planeta y monta\u00f1as",
+        "Description": "The planet shines with a soft, golden light in the firmament, surrounded by mountains that stand like an imposing wall in the distance.",
+        "Description[es]": "El planeta brilla con una luz suave y dorada en el firmamento, rodeado de monta\u00f1as que se erigen como una muralla imponente en la distancia"
+    }
+}

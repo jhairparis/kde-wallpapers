@@ -1,0 +1,17 @@
+{
+    "KPlugin": {
+        "Authors": [
+            {
+                "Email": "70655025+jhairparis@users.noreply.github.com",
+                "Name": "Jhair Paris",
+                "Name[es]": "Jhair Paris"
+            }
+        ],
+        "Id": "com.jhairparis.eyes_of_mystique",
+        "License": "GPL-3.0",
+        "Name": "Eyes of Mystique",
+        "Name[es]": "Los Ojos Misteriosos",
+        "Description": "A striking black cat with mesmerizing blue eyes is the focal point of the image.",
+        "Description[es]": "Un gato negro de ojos azules sorprendentemente atractivos siendo el elemento central de la image."
+    }
+}

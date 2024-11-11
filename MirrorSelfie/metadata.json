@@ -1,0 +1,17 @@
+{
+    "KPlugin": {
+        "Authors": [
+            {
+                "Email": "70655025+jhairparis@users.noreply.github.com",
+                "Name": "Jhair Paris",
+                "Name[es]": "Jhair Paris"
+            }
+        ],
+        "Id": "com.jhairparis.mirror_selfie",
+        "License": "GPL-3.0",
+        "Name": "Mirror Selfie",
+        "Name[es]": "Reflejo propio",
+        "Description": "Boy holding a camera in a mirror.",
+        "Description[es]": "Chico sujetando una camara en un espejo."
+    }
+}

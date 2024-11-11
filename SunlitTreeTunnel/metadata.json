@@ -1,0 +1,17 @@
+{
+    "KPlugin": {
+        "Authors": [
+            {
+                "Email": "70655025+jhairparis@users.noreply.github.com",
+                "Name": "Jhair Paris",
+                "Name[es]": "Jhair Paris"
+            }
+        ],
+        "Id": "com.jhairparis.sunlit_tree_tunnel",
+        "License": "GPL-3.0",
+        "Name": "Sunlit tree tunnel",
+        "Name[es]": "Camino al sol",
+        "Description": "Scene on a tree-lined road, where the sun is shining brightly through a gap in the trees.",
+        "Description[es]": "Escena en una carretera arbolada, donde el sol brilla intensamente a trav\u00e9s de un hueco entre los \u00e1rboles."
+    }
+}

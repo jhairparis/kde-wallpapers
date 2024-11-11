@@ -1,0 +1,17 @@
+{
+    "KPlugin": {
+        "Authors": [
+            {
+                "Email": "70655025+jhairparis@users.noreply.github.com",
+                "Name": "Jhair Paris",
+                "Name[es]": "Jhair Paris"
+            }
+        ],
+        "Id": "com.jhairparis.village_by_river",
+        "License": "GPL-3.0",
+        "Name": "Village by River",
+        "Name[es]": "Aldea del rio",
+        "Description": "A night landscape in a small town surrounded by a river, illuminated by gas lights and the sunrise.",
+        "Description[es]": "Un paisaje nocturno en un pueblo peque\u00f1o rodeado de un r\u00edo, iluminado por luces de gas y el amanecer."
+    }
+}

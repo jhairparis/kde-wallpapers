@@ -1,0 +1,17 @@
+{
+    "KPlugin": {
+        "Authors": [
+            {
+                "Email": "70655025+jhairparis@users.noreply.github.com",
+                "Name": "Jhair Paris",
+                "Name[es]": "Jhair Paris"
+            }
+        ],
+        "Id": "com.jhairparis.abandoned_room",
+        "License": "GPL-3.0",
+        "Name": "Abandoned Room",
+        "Name[es]": "Cuarto abandonado",
+        "Description": "A skeleton in room filled with detritus and a old computer.",
+        "Description[es]": "Un esqueleto en espacio lleno de desperdicios y una computadora vieja."
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "KPlugin": {
+        "Authors": [
+            {
+                "Email": "70655025+jhairparis@users.noreply.github.com",
+                "Name": "Jhair Paris",
+                "Name[es]": "Jhair Paris"
+            }
+        ],
+        "Id": "com.jhairparis.moonlit_night_in_clouds",
+        "License": "GPL-3.0",
+        "Name": "Moonlit night in clouds",
+        "Name[es]": "Noche de luna entre nubes",
+        "Description": "Serene sky, fluffy clouds and a canoe in the center",
+        "Description[es]": "Cielo sereno, nubes esponjosas y una canoa en el centro"
+    }
+}

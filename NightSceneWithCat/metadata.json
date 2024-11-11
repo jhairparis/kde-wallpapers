@@ -1,0 +1,17 @@
+{
+    "KPlugin": {
+        "Authors": [
+            {
+                "Email": "70655025+jhairparis@users.noreply.github.com",
+                "Name": "Jhair Paris",
+                "Name[es]": "Jhair Paris"
+            }
+        ],
+        "Id": "com.jhairparis.night_scene_with_cat",
+        "License": "GPL-3.0",
+        "Name": "Night scene with cat",
+        "Name[es]": "Escena nocturna con gato",
+        "Description": "An illustration of a tranquil night scene featuring a dark blue sky filled with stars, a lit street lamp illuminating the surroundings, and an animated cat perched on a sign.",
+        "Description[es]": "La escena nocturna es tranquila y misteriosa, con un cielo oscuro y lleno de estrellas, una linterna en la calle iluminando el entorno y un gato animado posado en una se\u00f1al."
+    }
+}

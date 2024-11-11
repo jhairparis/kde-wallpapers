@@ -1,0 +1,17 @@
+{
+    "KPlugin": {
+        "Authors": [
+            {
+                "Email": "70655025+jhairparis@users.noreply.github.com",
+                "Name": "Jhair Paris",
+                "Name[es]": "Jhair Paris"
+            }
+        ],
+        "Id": "com.jhairparis.abstract_mountain",
+        "License": "GPL-3.0",
+        "Name": "Abstract Mountain",
+        "Name[es]": "Monta\u00f1as abstractas",
+        "Description": "A colorful, abstract representation of waves with irregular contours and undulating patterns.",
+        "Description[es]": "Una colorida representaci\u00f3n abstracta de olas con contornos irregulares y patrones ondulantes."
+    }
+}

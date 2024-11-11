@@ -1,0 +1,17 @@
+{
+    "KPlugin": {
+        "Authors": [
+            {
+                "Email": "70655025+jhairparis@users.noreply.github.com",
+                "Name": "Jhair Paris",
+                "Name[es]": "Jhair Paris"
+            }
+        ],
+        "Id": "com.jhairparis.magical_deer",
+        "License": "GPL-3.0",
+        "Name": "Magical deer",
+        "Name[es]": "Ciervo m\u00e1gico",
+        "Description": "A magical night scene in a forest. A deer stands in the center of the frame, its coat shimmering with green and blue lights, giving it an otherworldly appearance.",
+        "Description[es]": "Una escena nocturna m\u00e1gica en un bosque. Un ciervo se encuentra en el centro del cuadro, su pelaje brilla con luces verdes y azules, d\u00e1ndole una apariencia de otro mundo."
+    }
+}

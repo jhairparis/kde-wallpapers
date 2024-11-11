@@ -1,0 +1,17 @@
+{
+    "KPlugin": {
+        "Authors": [
+            {
+                "Email": "70655025+jhairparis@users.noreply.github.com",
+                "Name": "Jhair Paris",
+                "Name[es]": "Jhair Paris"
+            }
+        ],
+        "Id": "com.jhairparis.sunset_mountain",
+        "License": "GPL-3.0",
+        "Name": "Sunset Mountain",
+        "Name[es]": "Puesta de sol en la monta\u00f1a",
+        "Description": "Serene and picturesque at sunset.",
+        "Description[es]": "Sereno y pintoresco al atardecer."
+    }
+}

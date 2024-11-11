@@ -1,0 +1,17 @@
+{
+    "KPlugin": {
+        "Authors": [
+            {
+                "Email": "70655025+jhairparis@users.noreply.github.com",
+                "Name": "Jhair Paris",
+                "Name[es]": "Jhair Paris"
+            }
+        ],
+        "Id": "com.jhairparis.rustic_hideaway",
+        "License": "GPL-3.0",
+        "Name": "Rustic Hideaway",
+        "Name[es]": "Aldeahenda escondida",
+        "Description": "A cozy, rustic scene featuring a quaint hut with a thatched roof set among trees and rocks.",
+        "Description[es]": "Una escena r\u00fastica y acogedora con una pintoresca caba\u00f1a con tejado de paja situada entre \u00e1rboles y rocas."
+    }
+}

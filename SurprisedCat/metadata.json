@@ -1,0 +1,17 @@
+{
+    "KPlugin": {
+        "Authors": [
+            {
+                "Email": "70655025+jhairparis@users.noreply.github.com",
+                "Name": "Jhair Paris",
+                "Name[es]": "Jhair Paris"
+            }
+        ],
+        "Id": "com.jhairparis.surprised_cat",
+        "License": "GPL-3.0",
+        "Name": "Surprised Cat",
+        "Name[es]": "Gato Surpresa.",
+        "Description": "A gray cat with yellow eyes sits looking to the right.",
+        "Description[es]": "Un gato gris con ojos amarillos sentado mirando a la derecha."
+    }
+}

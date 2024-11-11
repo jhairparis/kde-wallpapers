@@ -1,0 +1,17 @@
+{
+    "KPlugin": {
+        "Authors": [
+            {
+                "Email": "70655025+jhairparis@users.noreply.github.com",
+                "Name": "Jhair Paris",
+                "Name[es]": "Jhair Paris"
+            }
+        ],
+        "Id": "com.jhairparis.lakeside_house",
+        "License": "GPL-3.0",
+        "Name": "Lakeside house",
+        "Name[es]": "Casa junto al lago",
+        "Description": "The image depicts a night scene, featuring an open-air house with a pointed roof.",
+        "Description[es]": "La imagen representa una escena nocturna, con una casa al aire libre de tejado puntiagudo."
+    }
+}

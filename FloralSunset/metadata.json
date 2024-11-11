@@ -1,0 +1,17 @@
+{
+    "KPlugin": {
+        "Authors": [
+            {
+                "Email": "70655025+jhairparis@users.noreply.github.com",
+                "Name": "Jhair Paris",
+                "Name[es]": "Jhair Paris"
+            }
+        ],
+        "Id": "com.jhairparis.floral_sunset",
+        "License": "GPL-3.0",
+        "Name": "Floral Sunset",
+        "Name[es]": "El atardecer floral.",
+        "Description": "The image captures a close-up of delicate pink flowers in bloom.",
+        "Description[es]": "La imagen captura un close-up de delicadas flores rosadas en plena floaci\u00f3n."
+    }
+}

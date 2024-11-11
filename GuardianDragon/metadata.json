@@ -1,0 +1,17 @@
+{
+    "KPlugin": {
+        "Authors": [
+            {
+                "Email": "70655025+jhairparis@users.noreply.github.com",
+                "Name": "Jhair Paris",
+                "Name[es]": "Jhair Paris"
+            }
+        ],
+        "Id": "com.jhairparis.guardian_dragon",
+        "License": "GPL-3.0",
+        "Name": "Guardian dragon",
+        "Name[es]": "Dragon Guardian",
+        "Description": "A red dragon guarding a golden treasure",
+        "Description[es]": "Un drag\u00f3n rojo que proteje un tesoro de oro."
+    }
+}

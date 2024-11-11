@@ -1,0 +1,17 @@
+{
+    "KPlugin": {
+        "Authors": [
+            {
+                "Email": "70655025+jhairparis@users.noreply.github.com",
+                "Name": "Jhair Paris",
+                "Name[es]": "Jhair Paris"
+            }
+        ],
+        "Id": "com.jhairparis.nighttime_city",
+        "License": "GPL-3.0",
+        "Name": "Nighttime City",
+        "Name[es]": "Ciudad nocturna",
+        "Description": "A night in an urban center, with artificial lighting and the contrast between artificial light and night sky.",
+        "Description[es]": "Una noche en un centro urbano, con una iluminaci\u00f3n artificial y el contraste entre luz artificial y cielo nocturno."
+    }
+}

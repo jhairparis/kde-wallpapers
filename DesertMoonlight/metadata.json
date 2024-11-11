@@ -1,0 +1,17 @@
+{
+    "KPlugin": {
+        "Authors": [
+            {
+                "Email": "70655025+jhairparis@users.noreply.github.com",
+                "Name": "Jhair Paris",
+                "Name[es]": "Jhair Paris"
+            }
+        ],
+        "Id": "com.jhairparis.desert_moonlight",
+        "License": "GPL-3.0",
+        "Name": "Desert Moonlight",
+        "Name[es]": "Luna del desierto",
+        "Description": "A fantastical landscape features a large, full moon suspended in the sky against a backdrop of dramatic clouds.",
+        "Description[es]": "Un paisaje fant\u00e1stico con una gran luna llena suspendida en el cielo sobre un fondo de nubes espectaculares."
+    }
+}

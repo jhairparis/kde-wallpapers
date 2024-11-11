@@ -1,0 +1,17 @@
+{
+    "KPlugin": {
+        "Authors": [
+            {
+                "Email": "70655025+jhairparis@users.noreply.github.com",
+                "Name": "Jhair Paris",
+                "Name[es]": "Jhair Paris"
+            }
+        ],
+        "Id": "com.jhairparis.mountain_village",
+        "License": "GPL-3.0",
+        "Name": "Mountain Village",
+        "Name[es]": "Pueblo entre monta\u00f1as",
+        "Description": "A Japanese village in the middle of the mountains.",
+        "Description[es]": "Un pueblo japon\u00e9s en medio de las monta\u00f1as."
+    }
+}

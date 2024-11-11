@@ -1,0 +1,17 @@
+{
+    "KPlugin": {
+        "Authors": [
+            {
+                "Email": "70655025+jhairparis@users.noreply.github.com",
+                "Name": "Jhair Paris",
+                "Name[es]": "Jhair Paris"
+            }
+        ],
+        "Id": "com.jhairparis.pacman_tron",
+        "License": "GPL-3.0",
+        "Name": "Digital Race Artwork",
+        "Name[es]": "Arte digital de carreras",
+        "Description": "Pacman fleeing form ghosts in neon style.",
+        "Description[es]": "Pacman huye de fantasmas en estilo ne\u00f3n."
+    }
+}

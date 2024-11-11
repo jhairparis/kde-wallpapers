@@ -1,0 +1,17 @@
+{
+    "KPlugin": {
+        "Authors": [
+            {
+                "Email": "70655025+jhairparis@users.noreply.github.com",
+                "Name": "Jhair Paris",
+                "Name[es]": "Jhair Paris"
+            }
+        ],
+        "Id": "com.jhairparis.burger_race",
+        "License": "GPL-3.0",
+        "Name": "Virtual Racer Vs. Real Roads",
+        "Name[es]": "A career",
+        "Description": "SpongeBob in a race ",
+        "Description[es]": "Bob esponja en una carrera."
+    }
+}

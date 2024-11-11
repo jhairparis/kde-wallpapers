@@ -1,0 +1,17 @@
+{
+    "KPlugin": {
+        "Authors": [
+            {
+                "Email": "70655025+jhairparis@users.noreply.github.com",
+                "Name": "Jhair Paris",
+                "Name[es]": "Jhair Paris"
+            }
+        ],
+        "Id": "com.jhairparis.stormy_seascape",
+        "License": "GPL-3.0",
+        "Name": " Stormy Seascape",
+        "Name[es]": " Mar tormentoso",
+        "Description": "Dramatic ship scene under a dark and stormy sky.",
+        "Description[es]": "Dram\u00e1tico escenario de barco bajo un cielo oscuro y tormentoso."
+    }
+}

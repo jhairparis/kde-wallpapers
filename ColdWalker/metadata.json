@@ -1,0 +1,17 @@
+{
+    "KPlugin": {
+        "Authors": [
+            {
+                "Email": "70655025+jhairparis@users.noreply.github.com",
+                "Name": "Jhair Paris",
+                "Name[es]": "Jhair Paris"
+            }
+        ],
+        "Id": "com.jhairparis.cold_walker",
+        "License": "GPL-3.0",
+        "Name": "Cold walker",
+        "Name[es]": "Frio caminante",
+        "Description": "A serene and calm image in the landscape, with a character walking on a frozen lake, leaving traces of footprints.",
+        "Description[es]": "Una imagen serena y tranquila en el paisaje, con un personaje caminando sobre un lago helado, dejando rastrores de huella."
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "KPlugin": {
+        "Authors": [
+            {
+                "Email": "70655025+jhairparis@users.noreply.github.com",
+                "Name": "Jhair Paris",
+                "Name[es]": "Jhair Paris"
+            }
+        ],
+        "Id": "com.jhairparis.mount_between_clouds",
+        "License": "GPL-3.0",
+        "Name": "Mount between clouds",
+        "Name[es]": "Monte entre nubes",
+        "Description": "Majestic view of mount.",
+        "Description[es]": "Vista impresionante de un monte."
+    }
+}

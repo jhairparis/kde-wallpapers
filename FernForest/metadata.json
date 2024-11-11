@@ -1,0 +1,17 @@
+{
+    "KPlugin": {
+        "Authors": [
+            {
+                "Email": "70655025+jhairparis@users.noreply.github.com",
+                "Name": "Jhair Paris",
+                "Name[es]": "Jhair Paris"
+            }
+        ],
+        "Id": "com.jhairparis.fern_forest",
+        "License": "GPL-3.0",
+        "Name": "Fern Forest",
+        "Name[es]": "Bosque de helechos",
+        "Description": "Lush expanse of green ferns, densely packed and vibrant against a dark background.",
+        "Description[es]": "Bosque de helechos, densamente lleno y brillantes sobre un fondo oscuro."
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "KPlugin": {
+        "Authors": [
+            {
+                "Email": "70655025+jhairparis@users.noreply.github.com",
+                "Name": "Jhair Paris",
+                "Name[es]": "Jhair Paris"
+            }
+        ],
+        "Id": "com.jhairparis.cryptic_gateway",
+        "License": "GPL-3.0",
+        "Name": "Cryptic Gateway",
+        "Name[es]": "Portal cr\u00edptico",
+        "Description": "Tall, narrow portal  a classical style with stone-like texture and central rectangular opening.",
+        "Description[es]": "Portal alto y estrecho de estilo cl\u00e1sico con textura de piedra y abertura rectangular central."
+    }
+}

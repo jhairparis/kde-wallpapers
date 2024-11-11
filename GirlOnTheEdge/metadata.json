@@ -1,0 +1,17 @@
+{
+    "KPlugin": {
+        "Authors": [
+            {
+                "Email": "70655025+jhairparis@users.noreply.github.com",
+                "Name": "Jhair Paris",
+                "Name[es]": "Jhair Paris"
+            }
+        ],
+        "Id": "com.jhairparis.girl_on_the_edge",
+        "License": "GPL-3.0",
+        "Name": "Girl on the edge",
+        "Name[es]": "Chica al borde",
+        "Description": "A serene afternoon with the silhouette of a girl with warm, orange and yellow sky with ships on the horizon.",
+        "Description[es]": "Una tarde serena con la silueta de una chica con cielo c\u00e1lido,   naranja y amarillo con barcos en el horizonte."
+    }
+}

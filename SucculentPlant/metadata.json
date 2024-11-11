@@ -1,0 +1,17 @@
+{
+    "KPlugin": {
+        "Authors": [
+            {
+                "Email": "70655025+jhairparis@users.noreply.github.com",
+                "Name": "Jhair Paris",
+                "Name[es]": "Jhair Paris"
+            }
+        ],
+        "Id": "com.jhairparis.succulent_plant",
+        "License": "GPL-3.0",
+        "Name": "Succulent Plant",
+        "Name[es]": "Planta Suculenta",
+        "Description": "A collection of succulent plants in a dark.",
+        "Description[es]": "Una colecci\u00f3n de plantas suculentas en un contenedor oscuro lleno de tierra."
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "KPlugin": {
+        "Authors": [
+            {
+                "Email": "70655025+jhairparis@users.noreply.github.com",
+                "Name": "Jhair Paris",
+                "Name[es]": "Jhair Paris"
+            }
+        ],
+        "Id": "com.jhairparis.enchanted_night_forest",
+        "License": "GPL-3.0",
+        "Name": "Enchanted Night Forest",
+        "Name[es]": "Night Forest Encantada",
+        "Description": "The serene forest scene at night. The dark, dense trees tower over the landscape, their silhouettes contrasting with the misty atmosphere.",
+        "Description[es]": "La de una escena serena del bosque nocturno. Los \u00e1rboles oscuros y densos se elevan sobre el paisaje, sus sombras contrastando con la atm\u00f3sfera misteriosa."
+    }
+}

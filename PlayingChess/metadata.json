@@ -1,0 +1,17 @@
+{
+    "KPlugin": {
+        "Authors": [
+            {
+                "Email": "70655025+jhairparis@users.noreply.github.com",
+                "Name": "Jhair Paris",
+                "Name[es]": "Jhair Paris"
+            }
+        ],
+        "Id": "com.jhairparis.playing_chess",
+        "License": "GPL-3.0",
+        "Name": "Astronaut's playing chess",
+        "Name[es]": "Astronauta jugando ajedrez",
+        "Description": "Two astronauts play chess while floating in space",
+        "Description[es]": "Dos astronautas juegan ajedrez con un mientras flotan en el espacio"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "KPlugin": {
+        "Authors": [
+            {
+                "Email": "70655025+jhairparis@users.noreply.github.com",
+                "Name": "Jhair Paris",
+                "Name[es]": "Jhair Paris"
+            }
+        ],
+        "Id": "com.jhairparis.autumnal_forest_path_",
+        "License": "GPL-3.0",
+        "Name": "Autumnal Forest Path.",
+        "Name[es]": "Camino de oto\u00f1o.",
+        "Description": "Serene autumnal forest scene.",
+        "Description[es]": "Silueta tranquila de bosque oto\u00f1al."
+    }
+}

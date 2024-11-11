@@ -1,0 +1,17 @@
+{
+    "KPlugin": {
+        "Authors": [
+            {
+                "Email": "70655025+jhairparis@users.noreply.github.com",
+                "Name": "Jhair Paris",
+                "Name[es]": "Jhair Paris"
+            }
+        ],
+        "Id": "com.jhairparis.glowing_jellyfish",
+        "License": "GPL-3.0",
+        "Name": "Glowing Jellyfish",
+        "Name[es]": "Medusa brillante",
+        "Description": " An underwater illuminated stage with a jellyfish",
+        "Description[es]": "Un escenario iluminado bajo el agua con una medusa."
+    }
+}

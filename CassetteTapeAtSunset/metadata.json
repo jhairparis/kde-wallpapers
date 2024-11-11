@@ -1,0 +1,17 @@
+{
+    "KPlugin": {
+        "Authors": [
+            {
+                "Email": "70655025+jhairparis@users.noreply.github.com",
+                "Name": "Jhair Paris",
+                "Name[es]": "Jhair Paris"
+            }
+        ],
+        "Id": "com.jhairparis.cassette_tape_at_sunset",
+        "License": "GPL-3.0",
+        "Name": "Cassette Tape at Sunset",
+        "Name[es]": "El casete al ponerse el sol",
+        "Description": "The image depicts a cassette tape with pink and blue hues, held by a hand that appears from the bottom of the frame. The background features an evening sky with a gradient of colors ranging from purple to orange.",
+        "Description[es]": "La imagen muestra una cinta de casete con tonos pink y azul, sostenida por una mano que emerge desde abajo de la frame. El fondo presenta un crep\u00fasculo con una graduaci\u00f3n de colores que van del p\u00farpura al naranja."
+    }
+}
