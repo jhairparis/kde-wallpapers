@@ -189,7 +189,7 @@ def validate_wallpaper(wallpaper_dir):
 
     contents_dir = wallpaper_dir / "contents"
     images_dir = contents_dir / "images"
-    image_dark_dir = contents_dir / "image_dark"
+    images_dark_dir = contents_dir / "images_dark"
 
     # Validate exactly one image in contents/images
     if images_dir.exists():
@@ -210,13 +210,13 @@ def validate_wallpaper(wallpaper_dir):
     else:
         report["errors"].append("Directorio contents/images no encontrado")
 
-    # Check for image in contents/image_dark
-    if image_dark_dir.exists():
-        dark_images = [f for f in image_dark_dir.iterdir() if f.is_file()]
+    # Check for image in contents/images_dark
+    if images_dark_dir.exists():
+        dark_images = [f for f in images_dark_dir.iterdir() if f.is_file()]
         if not dark_images:
-            report["warnings"].append("No se encontró imagen en contents/image_dark")
+            report["warnings"].append("No se encontró imagen en contents/images_dark")
     else:
-        report["warnings"].append("Directorio contents/image_dark no encontrado")
+        report["warnings"].append("Directorio contents/images_dark no encontrado")
 
     return report
 
@@ -244,7 +244,7 @@ def main():
     else:
         # Validate all folders
         for wallpaper_dir in wallpapers_dir.iterdir():
-            if wallpaper_dir.is_dir():
+            if wallpaper_dir.is_dir() and wallpaper_dir.name != ".git":
                 report = validate_wallpaper(wallpaper_dir)
                 reports.append(report)
 

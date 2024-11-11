@@ -24,17 +24,17 @@ def create_wallpaper_structure(wallpaper_name, light_image_path, dark_image_path
     wallpaper_dir = wallpapers_dir / wallpaper_name
     contents_dir = wallpaper_dir / "contents"
     images_dir = contents_dir / "images"
-    image_dark_dir = contents_dir / "image_dark"
+    images_dark_dir = contents_dir / "images_dark"
 
     # Create directories
     images_dir.mkdir(parents=True, exist_ok=True)
     if dark_image_path:
-        image_dark_dir.mkdir(parents=True, exist_ok=True)
+        images_dark_dir.mkdir(parents=True, exist_ok=True)
 
     # Copy images to respective directories
     shutil.copy(light_image_path, images_dir / Path(light_image_path).name)
     if dark_image_path:
-        shutil.copy(dark_image_path, image_dark_dir / Path(dark_image_path).name)
+        shutil.copy(dark_image_path, images_dark_dir / Path(dark_image_path).name)
 
     # Create metadata.json
     name, email = get_git_config()
@@ -65,7 +65,7 @@ def set_wallpaper_and_screenshot(wallpaper_dir, go_to_desktop=False):
 
     contents_dir = wallpaper_dir / "contents"
     images_dir = contents_dir / "images"
-    image_dark_dir = contents_dir / "image_dark"
+    images_dark_dir = contents_dir / "images_dark"
     screenshot_name = "screenshot.png"
 
     screenshots = []
@@ -101,7 +101,7 @@ def set_wallpaper_and_screenshot(wallpaper_dir, go_to_desktop=False):
     screenshots.append(light_screenshot)
 
     # Verificar existencia de imagen dark
-    dark_images = list(image_dark_dir.glob("*"))
+    dark_images = list(images_dark_dir.glob("*"))
     if dark_images:
         # Establecer wallpaper dark
         dark_wallpaper = str(dark_images[0])

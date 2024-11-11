@@ -166,7 +166,7 @@ def scan_folder_structure(parent_folder, show_authors=False):
     parent_path = Path(parent_folder)
 
     for wallpaper_dir in parent_path.iterdir():
-        if not wallpaper_dir.is_dir():
+        if not wallpaper_dir.is_dir() or wallpaper_dir.name == ".git":
             continue
 
         content_dir = wallpaper_dir / "contents"
@@ -190,11 +190,11 @@ def scan_folder_structure(parent_folder, show_authors=False):
 
         # Collect images from both directories
         image_dir = content_dir / "images"
-        image_dark_dir = content_dir / "image_dark"
+        images_dark_dir = content_dir / "images_dark"
 
         images = []
         images.extend(process_image_directory(image_dir, "Light"))
-        images.extend(process_image_directory(image_dark_dir, "Dark"))
+        images.extend(process_image_directory(images_dark_dir, "Dark"))
 
         if not images:
             print("No valid images found in this wallpaper directory")
@@ -217,6 +217,10 @@ def get_wallpapers_directory():
     current_file = Path(__file__).resolve()
     # Since script is in /wallpapers/check.py, parent is wallpapers dir
     wallpapers_dir = current_file.parent
+
+    # Excluir el directorio .git si existe
+    if (wallpapers_dir / ".git").exists():
+        pass  # No es necesario hacer nada aquí, se ignora en la iteración
 
     if not wallpapers_dir.exists():
         raise FileNotFoundError(f"Wallpapers directory not found at {wallpapers_dir}")
@@ -251,11 +255,11 @@ def process_single_wallpaper(wallpaper_dir, show_authors=False):
 
     # Process images
     image_dir = content_dir / "images"
-    image_dark_dir = content_dir / "image_dark"
+    images_dark_dir = content_dir / "images_dark"
 
     images = []
     images.extend(process_image_directory(image_dir, "Light"))
-    images.extend(process_image_directory(image_dark_dir, "Dark"))
+    images.extend(process_image_directory(images_dark_dir, "Dark"))
 
     if not images:
         print("No valid images found in this wallpaper directory")
